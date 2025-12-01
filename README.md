@@ -1,6 +1,6 @@
 FinAssist: Intelligent RAG Support Agent & Evaluation Pipeline
 
-!(Screenshot.png)
+![App Preview](Screenshot.png)
 
 🚀 Project Overview
 
