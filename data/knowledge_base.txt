@@ -1,0 +1,11 @@
+Payment Policy:
+
+Late Fees: A late fee of 15 AED (or equivalent in local currency) is charged if a payment is not made within 14 days of the due date. An additional fee is charged if the payment remains unpaid after 28 days. The total late fees will never exceed 30% of the order value.
+
+Split Payments: Tabby allows you to split your purchase into 4 interest-free payments. The first payment is due at the time of purchase, and the remaining three are due monthly.
+
+Refunds: Refunds are processed back to the original card used for payment. It typically takes 5-7 business days for the amount to reflect in your bank account depending on your bank's processing time. Tabby does not control this timeline.
+
+Credit Limit: Your credit limit is dynamic and depends on your payment history with Tabby, your credit score, and other factors. It is recalculated automatically by our system.
+
+Declined Payments: If your payment is declined, please check that your card has sufficient funds and is valid. Tabby may also block transactions if you have overdue payments on other orders.
